@@ -1,4 +1,4 @@
-<div align="center">
+ع<div align="center">
   <img src="Telegram-Mac/Assets.xcassets/AppIcon.appiconset/Logo_1024.png"
       width="125" 
       height="125">
